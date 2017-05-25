@@ -4,7 +4,7 @@ GLSL multi-blending compositor
 ***
 
 
-This is the 2nd installment in a serie of post-processing tools.
+This is the 2nd instalment in a serie of post-processing tools.
 
   
    

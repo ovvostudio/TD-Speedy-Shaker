@@ -1,13 +1,20 @@
 # TD-Speedy-Shaker
 GLSL multi-blending compositor
+version 1.01
 
 ***
 
 
 This is the 2nd instalment in a serie of post-processing tools.
 
-  
-   
+***
+changelog:
+
+*V1.01:
+  - clamped illegal color values
+  - readme and attributions
+  - universally tested 088/099
+***
 
 ### Why Speedy Shaker?
 

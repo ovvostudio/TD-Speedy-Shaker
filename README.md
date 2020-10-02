@@ -1,6 +1,6 @@
 # TD-Speedy-Shaker
 GLSL multi-blending compositor
-version 1.1
+latest version 1.11
 
 ***
 
@@ -9,6 +9,11 @@ This is the 2nd instalment in a serie of post-processing tools.
 
 ***
 changelog:
+
+*v1.11:
+  - bug fix: level wasn't working on 2+ layers
+  - added external Exemples file for some use case scenarios
+***
 
 *V1.1:
   - correct alpha handling
